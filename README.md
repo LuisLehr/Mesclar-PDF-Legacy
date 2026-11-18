@@ -1,7 +1,7 @@
 # Mesclar PDF's - pt-BR.
  
 > ⚠️ **PROJETO DESCONTINUADO**
-> Este projeto não receberá mais atualizações. Uma versão mais nova do mesmo projeto, chamada **Agrupar-PDF**, está disponível no meu perfil do GitHub: [LuisLehr/Comprimir-PDF](https://github.com/LuisLehr/Agrupar-PDF).
+> Este projeto não receberá mais atualizações. Uma versão mais nova do mesmo projeto, chamada **Agrupar-PDF**, está disponível no meu perfil do GitHub: [LuisLehr/Agrupar-PDF](https://github.com/LuisLehr/Agrupar-PDF).
 > Recomenda-se utilizar o novo repositório.
  
 Esse software foi desenvolvido para uso interno na Indústria de Calçados Wirth LTDA.
@@ -49,7 +49,7 @@ Abaixo você encontra um passo a passo de como instalar as bibliotecas, rodar o 
 # Checklist - en-US.
  
 > ⚠️ **DISCONTINUED PROJECT**
-> This project will no longer receive updates. A newer version of the same project, called **Agrupar-PDF**, is available on my GitHub profile: [LuisLehr/Comprimir-PDF](https://github.com/LuisLehr/Agrupar-PDF).
+> This project will no longer receive updates. A newer version of the same project, called **Agrupar-PDF**, is available on my GitHub profile: [LuisLehr/Agrupar-PDF](https://github.com/LuisLehr/Agrupar-PDF).
 > Using the new repository is recommended.
  
 This software was developed for internal use at Indústria de Calçados Wirth LTDA.
